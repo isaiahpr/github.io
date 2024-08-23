@@ -9,7 +9,6 @@ var values = [{
     subject: 'english',
     corps_region: 'Hawaii',
     corps_year: 2022,
-    headshot: '<img alt="Headshot of Dayla" data-entity-type="" data-entity-uuid="" src="https://www.teachforamerica.org/sites/default/files/2024-01/Dayla%20Bedford-Activate.png" />',
   },
   {
     name: 'Jonas Arnklint',
